@@ -1,0 +1,4 @@
+ID1|Apple|one
+ID2|Banana$two|dozen
+ID3|Orange
+ID4|Book|text$one
